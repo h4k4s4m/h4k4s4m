@@ -1,5 +1,5 @@
 💻Currently Working on Integrating AI in my Workflows
-🌐 Let's Work Together!:
+🌐 Let's Work Together!</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahm-s) 
 
 # 💻 Tech Stack:
